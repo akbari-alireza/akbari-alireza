@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Ali Reza Akbari, a UI/UX Designer and Frontend Developer.</h2>
+<h2 align="left">Salam, I'm Ali Reza Akbari, UI/UX Designer | Web Developer | Mobile App Developer.</h2>
 
 ###
 
